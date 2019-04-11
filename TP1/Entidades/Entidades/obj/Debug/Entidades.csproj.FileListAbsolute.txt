@@ -5,3 +5,10 @@ C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entida
 C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entidades\Entidades\obj\Debug\Entidades.exe
 C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb

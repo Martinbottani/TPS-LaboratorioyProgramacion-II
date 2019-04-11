@@ -131,6 +131,7 @@
             this.lblResultado.TabIndex = 9;
             this.lblResultado.Text = "0";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // MiCalculadora
             // 

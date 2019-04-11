@@ -8,3 +8,17 @@ C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entida
 C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\programacion_II\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\bin\Debug\Entidades.exe
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\bin\Debug\Entidades.exe.config
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.MiCalculadora.resources
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Martin Bottani\TPS-LaboratorioyProgramacion-II\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb

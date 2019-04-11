@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Entidades;
 
 namespace MiCalculadora
 {
@@ -41,7 +42,7 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Text);
+            lblResultado.Text = Convert.ToString(Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Text));
         }
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
@@ -56,7 +57,16 @@ namespace MiCalculadora
 
         private static double Operar(string numero1, string numero2, string operador)
         {
-            return 0;
+            double result;
+            Numero num1 = new Numero(numero1);
+            Numero num2 = new Numero(numero2);
+            result = Calculadora.Operar(num1, num2, operador);
+            return result;
+        }
+
+        private void lblResultado_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
