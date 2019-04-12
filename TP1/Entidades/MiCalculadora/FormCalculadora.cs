@@ -63,10 +63,5 @@ namespace MiCalculadora
             result = Calculadora.Operar(num1, num2, operador);
             return result;
         }
-
-        private void lblResultado_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -27,7 +27,10 @@ namespace Entidades
 
         private string SetNumero
         {
-            set {numero = ValidarNumero(value);}
+            set
+            {
+                numero = ValidarNumero(value);
+            }
         }
 
         public static double ValidarNumero(string strNumero)
