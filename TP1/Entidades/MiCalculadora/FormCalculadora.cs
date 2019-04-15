@@ -47,12 +47,14 @@ namespace MiCalculadora
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
-
+            Numero numDecimal = new Numero(0);
+            lblResultado.Text = numDecimal.DecimalBinario(lblResultado.Text);
         }
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-
+            Numero numBinario = new Numero(10);
+            lblResultado.Text = numBinario.BinarioDecimal(lblResultado.Text);
         }
 
         private static double Operar(string numero1, string numero2, string operador)
