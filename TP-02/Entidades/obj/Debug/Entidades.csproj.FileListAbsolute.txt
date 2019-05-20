@@ -17,3 +17,9 @@ C:\Users\Martin\Downloads\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyRefe
 C:\Users\Martin\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Downloads\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Martin\Downloads\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\Entidades\obj\Debug\Entidades.pdb

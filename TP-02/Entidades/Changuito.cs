@@ -19,6 +19,9 @@ namespace Entidades
         }
 
         #region "Constructores"
+        /// <summary>
+        /// Constructor de la clase
+        /// </summary>
         private Changuito()
         {
             this.productos = new List<Producto>();

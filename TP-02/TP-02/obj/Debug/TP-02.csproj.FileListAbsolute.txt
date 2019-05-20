@@ -28,3 +28,13 @@ C:\Users\Martin\Downloads\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\Martin\Downloads\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\Martin\Downloads\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Martin\Downloads\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\Martin\Desktop\UTN\Programacion y laboratorio II\TPS-LaboratorioyProgramacion-II\TP-02\TP-02\obj\Debug\TP-02.pdb

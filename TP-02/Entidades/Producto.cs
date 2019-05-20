@@ -18,7 +18,9 @@ namespace Entidades
         private EMarca marca;
         private string codigoDeBarras;
         private ConsoleColor colorPrimarioEmpaque;
-
+        /// <summary>
+        /// Constructor de la clase
+        /// </summary>
         public Producto(string codigo, EMarca marca, ConsoleColor color)
         {
             this.marca = marca;
@@ -40,8 +42,9 @@ namespace Entidades
             return (string)this;
         }
         /// <summary>
-        /// Recibe un producto y devuelve un string con todos sus datos.
+        /// Recibe un producto y devuelve un string con todos sus datos usando el metodo ToString.
         /// </summary>
+        /// <param name="sb">Variable donde se guarda las cadenas</param>
         /// <returns></returns>
         public static explicit operator string(Producto p)
         {

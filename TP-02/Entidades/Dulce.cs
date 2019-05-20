@@ -8,6 +8,9 @@ namespace Entidades
 {
     public class Dulce : Producto
     {
+        /// <summary>
+        /// Constructor de la clase
+        /// </summary>
         public Dulce(EMarca marca, string codigo, ConsoleColor color) : base(codigo, marca, color)
         {
         }
@@ -23,8 +26,9 @@ namespace Entidades
             }
         }
         /// <summary>
-        /// Devolvera un string con todos los datos de la Dulce y la clase base.
+        /// Devuelve un string con los datos de la clase base y la clase Dulce usando el metodo ToString.
         /// </summary>
+        /// <param name="sb">Variable donde se guarda las cadenas</param>
         /// <returns></returns>
         public override string Mostrar()
         {

@@ -25,6 +25,9 @@ namespace Entidades
             tipo = ETipo.Entera;
         }
 
+        /// <summary>
+        /// Constructor de la clase
+        /// </summary>
         public Leche(EMarca marca, string codigo, ConsoleColor color, ETipo tipo)
     : base(codigo, marca, color)
         {
@@ -42,8 +45,9 @@ namespace Entidades
             }
         }
         /// <summary>
-        /// Devolvera un string con todos los datos de la Leche y la clase base.
+        /// Devuelve un string con los datos de la clase base y la clase Leche usando el metodo ToString.
         /// </summary>
+        /// <param name="sb">Variable donde se guarda las cadenas</param>
         /// <returns></returns>
         public override string Mostrar()
         {
