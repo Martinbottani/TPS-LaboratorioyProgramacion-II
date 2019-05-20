@@ -17,7 +17,7 @@ namespace Entidades
         /// Por defecto, TIPO será ENTERA
         /// </summary>
         /// <param name="marca"></param>
-        /// <param name="patente"></param>
+        /// <param name="codigo"></param>
         /// <param name="color"></param>
         public Leche(EMarca marca, string codigo, ConsoleColor color)
             : base(codigo, marca, color)
@@ -26,7 +26,7 @@ namespace Entidades
         }
 
         public Leche(EMarca marca, string codigo, ConsoleColor color, ETipo tipo)
-            : base(codigo, marca, color)
+    : base(codigo, marca, color)
         {
             this.tipo = tipo;
         }
@@ -41,7 +41,10 @@ namespace Entidades
                 return 20;
             }
         }
-
+        /// <summary>
+        /// Devolvera un string con todos los datos de la Leche y la clase base.
+        /// </summary>
+        /// <returns></returns>
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

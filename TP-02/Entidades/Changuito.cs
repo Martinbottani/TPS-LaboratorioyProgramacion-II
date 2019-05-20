@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Entidades
-
 {
     /// <summary>
     /// No podrá tener clases heredadas.
@@ -44,7 +43,7 @@ namespace Entidades
         #region "Métodos"
 
         /// <summary>
-        /// Expone los datos del elemento y su lista (incluidas sus herencias)
+        /// Devuelve los datos del elemento y su lista (incluidas sus herencias)
         /// SOLO del tipo requerido
         /// </summary>
         /// <param name="c">Elemento a exponer</param>
@@ -64,26 +63,25 @@ namespace Entidades
                         if (v is Snacks)
                         {
                             sb.AppendLine(v.Mostrar());
-                        }                          
+                        }
                         break;
                     case ETipo.Dulce:
                         if (v is Dulce)
                         {
                             sb.AppendLine(v.Mostrar());
-                        }                           
+                        }
                         break;
                     case ETipo.Leche:
                         if (v is Leche)
                         {
                             sb.AppendLine(v.Mostrar());
-                        }                           
+                        }
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
                         break;
                 }
             }
-
             return sb.ToString();
         }
         #endregion
@@ -102,9 +100,9 @@ namespace Entidades
                 foreach (Producto v in c.productos)
                 {
                     if (v == p)
-                    c.productos.Add(p);
-                    break;
-                }              
+                        return c;
+                }
+                c.productos.Add(p);
             }
             return c;
         }

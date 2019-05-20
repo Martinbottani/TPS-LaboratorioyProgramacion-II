@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     /// <summary>
-    /// La clase Producto no deberá permitir que se instancien elementos de este tipo.
+    /// La clase Producto sera abstract y heredera a Dulce, Leche y Snacks.
     /// </summary>
     public abstract class Producto
     {
@@ -27,9 +27,9 @@ namespace Entidades
         }
 
         /// <summary>
-        /// ReadOnly: Retornará la cantidad de ruedas del vehículo
+        /// ReadOnly: Retornará la cantidad de calorias
         /// </summary>
-        protected abstract short CantidadCalorias { get;}
+        protected abstract short CantidadCalorias { get; }
 
         /// <summary>
         /// Publica todos los datos del Producto.
@@ -39,7 +39,10 @@ namespace Entidades
         {
             return (string)this;
         }
-
+        /// <summary>
+        /// Recibe un producto y devuelve un string con todos sus datos.
+        /// </summary>
+        /// <returns></returns>
         public static explicit operator string(Producto p)
         {
             StringBuilder sb = new StringBuilder();
